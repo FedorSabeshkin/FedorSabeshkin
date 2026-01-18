@@ -13,6 +13,8 @@
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
 <a href="https://t.me/FedorSabeshkinBlog" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="https://t.me/FedorSabeshkinBlog" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fedor-sabeshkin-563304210" target="blank"><img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/linkedin.com.png" alt="https://linkedin.com/in/fedor-sabeshkin-563304210" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Используемые технологии:</h3>
